@@ -1,0 +1,1021 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lustur\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\core.css",
+      "PackagePath": "staticwebassets\\lustur\\css\\core.css"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\custom.css",
+      "PackagePath": "staticwebassets\\lustur\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\lustur\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\lustur\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lustur\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lustur\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\lustur\\css\\plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\plugins\\AjaxLoader.gif",
+      "PackagePath": "staticwebassets\\lustur\\css\\plugins\\AjaxLoader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\plugins\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lustur\\css\\plugins\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\plugins\\animate-slider.css",
+      "PackagePath": "staticwebassets\\lustur\\css\\plugins\\animate-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\plugins\\animate.css",
+      "PackagePath": "staticwebassets\\lustur\\css\\plugins\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\plugins\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\lustur\\css\\plugins\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\plugins\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\lustur\\css\\plugins\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\plugins\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\lustur\\css\\plugins\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\plugins\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\lustur\\css\\plugins\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\plugins\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\lustur\\css\\plugins\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\plugins\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\lustur\\css\\plugins\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\plugins\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\lustur\\css\\plugins\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\plugins\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\lustur\\css\\plugins\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\plugins\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\lustur\\css\\plugins\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\plugins\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\lustur\\css\\plugins\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\plugins\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\lustur\\css\\plugins\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\plugins\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\lustur\\css\\plugins\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\plugins\\meanmenu.css",
+      "PackagePath": "staticwebassets\\lustur\\css\\plugins\\meanmenu.css"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\plugins\\slick-theme.css",
+      "PackagePath": "staticwebassets\\lustur\\css\\plugins\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\plugins\\slick.css",
+      "PackagePath": "staticwebassets\\lustur\\css\\plugins\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\lustur\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\shortcode\\default.css",
+      "PackagePath": "staticwebassets\\lustur\\css\\shortcode\\default.css"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\shortcode\\footer.css",
+      "PackagePath": "staticwebassets\\lustur\\css\\shortcode\\footer.css"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\shortcode\\header.css",
+      "PackagePath": "staticwebassets\\lustur\\css\\shortcode\\header.css"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\shortcode\\shortcodes.css",
+      "PackagePath": "staticwebassets\\lustur\\css\\shortcode\\shortcodes.css"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\shortcode\\slider.css",
+      "PackagePath": "staticwebassets\\lustur\\css\\shortcode\\slider.css"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\style-customizer.css",
+      "PackagePath": "staticwebassets\\lustur\\css\\style-customizer.css"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\lustur\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\lustur\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\lustur\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\lustur\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\lustur\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\lustur\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\lustur\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\lustur\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\lustur\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\lustur\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\besr-product\\1.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\besr-product\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\bg\\1.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\bg\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\bg\\2.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\bg\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\bg\\3.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\bg\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\bg\\4.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\bg\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\bg\\5.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\bg\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\bg\\6.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\bg\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\blog\\big-images\\1.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\blog\\big-images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\blog\\blog-img\\1.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\blog\\blog-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\blog\\blog-img\\2.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\blog\\blog-img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\blog\\blog-img\\3.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\blog\\blog-img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\blog\\blog-img\\4.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\blog\\blog-img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\blog\\blog-img\\5.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\blog\\blog-img\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\blog\\blog-img\\6.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\blog\\blog-img\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\blog\\sm-img\\1.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\blog\\sm-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\blog\\sm-img\\2.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\blog\\sm-img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\blog\\sm-img\\3.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\blog\\sm-img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\blog\\sm-img\\4.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\blog\\sm-img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\blog\\sm-img\\5.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\blog\\sm-img\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\blog\\sm-img\\6.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\blog\\sm-img\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\brand\\1.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\brand\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\brand\\2.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\brand\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\brand\\3.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\brand\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\brand\\4.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\brand\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\brand\\5.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\brand\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\comment\\1.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\comment\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\comment\\2.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\comment\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\comment\\3.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\comment\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\lustur\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\feature-img\\1.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\feature-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\feature-img\\2.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\feature-img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\feature-img\\3.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\feature-img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\feature-img\\4.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\feature-img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\icons\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lustur\\images\\icons\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\icons\\close-20.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\icons\\close-20.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\icons\\close.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\icons\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\icons\\loading.gif",
+      "PackagePath": "staticwebassets\\lustur\\images\\icons\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\icons\\map.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\icons\\map.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\icons\\next.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\icons\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\icons\\prev.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\icons\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\icons\\select-option-white.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\icons\\select-option-white.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\icons\\select-option.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\icons\\select-option.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\icons\\send-2.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\icons\\send-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\icons\\send.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\icons\\send.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\logo\\2.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\logo\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\logo\\Thumbs.db",
+      "PackagePath": "staticwebassets\\lustur\\images\\logo\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\logo\\uniqlo-large.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\logo\\uniqlo-large.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\logo\\uniqlo.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\logo\\uniqlo.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\new-product\\1.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\new-product\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\new-product\\2.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\new-product\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\new-product\\3.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\new-product\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\new-product\\4.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\new-product\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\new-product\\5.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\new-product\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\new-product\\6.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\new-product\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\new-product\\7.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\new-product\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\new-product\\8.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\new-product\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\new-product\\9.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\new-product\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\others\\1.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\others\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\popular-pro-2\\1.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\popular-pro-2\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\popular-pro-2\\10.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\popular-pro-2\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\popular-pro-2\\11.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\popular-pro-2\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\popular-pro-2\\12.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\popular-pro-2\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\popular-pro-2\\13.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\popular-pro-2\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\popular-pro-2\\14.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\popular-pro-2\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\popular-pro-2\\15.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\popular-pro-2\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\popular-pro-2\\16.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\popular-pro-2\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\popular-pro-2\\17.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\popular-pro-2\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\popular-pro-2\\18.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\popular-pro-2\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\popular-pro-2\\19.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\popular-pro-2\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\popular-pro-2\\2.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\popular-pro-2\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\popular-pro-2\\20.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\popular-pro-2\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\popular-pro-2\\3.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\popular-pro-2\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\popular-pro-2\\4.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\popular-pro-2\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\popular-pro-2\\5.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\popular-pro-2\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\popular-pro-2\\6.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\popular-pro-2\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\popular-pro-2\\7.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\popular-pro-2\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\popular-pro-2\\8.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\popular-pro-2\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\popular-pro-2\\9.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\popular-pro-2\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\popular-pro\\1.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\popular-pro\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\popular-pro\\2.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\popular-pro\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\popular-pro\\3.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\popular-pro\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\portfolio\\width-variation-2\\1.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\portfolio\\width-variation-2\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\portfolio\\width-variation-2\\2.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\portfolio\\width-variation-2\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\portfolio\\width-variation-2\\3.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\portfolio\\width-variation-2\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\portfolio\\width-variation-2\\4 - Copy (3).jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\portfolio\\width-variation-2\\4 - Copy (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\portfolio\\width-variation-2\\4.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\portfolio\\width-variation-2\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\portfolio\\width-variation-2\\5.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\portfolio\\width-variation-2\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\portfolio\\width-variation-2\\6.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\portfolio\\width-variation-2\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\portfolio\\width-variation-2\\7.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\portfolio\\width-variation-2\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\portfolio\\width-variation-2\\8.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\portfolio\\width-variation-2\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\portfolio\\width-variation-2\\9.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\portfolio\\width-variation-2\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\portfolio\\width-variation\\1.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\portfolio\\width-variation\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\portfolio\\width-variation\\10.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\portfolio\\width-variation\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\portfolio\\width-variation\\11.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\portfolio\\width-variation\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\portfolio\\width-variation\\12.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\portfolio\\width-variation\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\portfolio\\width-variation\\2.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\portfolio\\width-variation\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\portfolio\\width-variation\\3.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\portfolio\\width-variation\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\portfolio\\width-variation\\4.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\portfolio\\width-variation\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\portfolio\\width-variation\\5.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\portfolio\\width-variation\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\portfolio\\width-variation\\6.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\portfolio\\width-variation\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\portfolio\\width-variation\\7.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\portfolio\\width-variation\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\portfolio\\width-variation\\8.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\portfolio\\width-variation\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\portfolio\\width-variation\\9.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\portfolio\\width-variation\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product-3\\1.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product-3\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product-3\\2.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product-3\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product-3\\3.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product-3\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product-3\\4.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product-3\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product-3\\5.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product-3\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product-3\\6.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product-3\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product-3\\7.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product-3\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product-details\\big-img\\1.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\product-details\\big-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product-details\\big-img\\2.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\product-details\\big-img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product-details\\big-img\\3.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\product-details\\big-img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product-details\\big-img\\4.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\product-details\\big-img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product-details\\small-img\\1.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\product-details\\small-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product-details\\small-img\\2.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\product-details\\small-img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product-details\\small-img\\3.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\product-details\\small-img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product-details\\small-img\\4.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\product-details\\small-img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\1.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\10.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\11.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\12.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\13.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\14.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\15.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\16.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\17.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\18.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\19.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\2.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\20.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\21.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\22.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\23.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\23.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\24.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\24.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\25.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\25.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\26.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\26.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\27.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\27.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\28.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\28.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\29.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\29.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\3.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\30.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\30.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\31.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\31.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\32.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\32.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\33.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\33.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\34.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\34.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\35.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\35.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\36.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\36.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\37.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\37.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\38.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\38.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\39.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\39.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\4.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\40.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\40.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\41.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\41.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\42.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\42.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\43.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\43.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\5.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\6.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\7.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\8.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\9.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\big-img\\1.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\big-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\sm-img\\1.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\sm-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\sm-img\\1.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\sm-img\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\sm-img\\2.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\sm-img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\sm-img\\3.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\sm-img\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\product\\sm-img\\4.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\product\\sm-img\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\review\\1.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\review\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\review\\2.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\review\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\sidebar-img\\1.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\sidebar-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\sidebar-img\\2.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\sidebar-img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\sidebar-img\\3.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\sidebar-img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\sidebar-img\\4.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\sidebar-img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\sidebar-img\\5.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\sidebar-img\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\sidebar-img\\6.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\sidebar-img\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\sidebar-img\\7.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\sidebar-img\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\sidebar-img\\8.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\sidebar-img\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\slider\\bg\\1.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\slider\\bg\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\slider\\bg\\2.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\slider\\bg\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\slider\\bg\\2.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\slider\\bg\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\slider\\bg\\3.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\slider\\bg\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\slider\\bg\\4.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\slider\\bg\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\slider\\bg\\5.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\slider\\bg\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\slider\\bg\\6.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\slider\\bg\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\slider\\bg\\7.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\slider\\bg\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\slider\\fornt-img\\1.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\slider\\fornt-img\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\slider\\fornt-img\\man-style.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\slider\\fornt-img\\man-style.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\team\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\team\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\team\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\team\\4.jpg",
+      "PackagePath": "staticwebassets\\lustur\\images\\team\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\test\\client\\1.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\test\\client\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\test\\client\\2.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\test\\client\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\images\\test\\client\\3.png",
+      "PackagePath": "staticwebassets\\lustur\\images\\test\\client\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lustur\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\js\\main.js",
+      "PackagePath": "staticwebassets\\lustur\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lustur\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\lustur\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\lustur\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\js\\style-customizer.js",
+      "PackagePath": "staticwebassets\\lustur\\js\\style-customizer.js"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\js\\vendor\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\lustur\\js\\vendor\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\js\\vendor\\jquery-migrate-3.3.2.min.js",
+      "PackagePath": "staticwebassets\\lustur\\js\\vendor\\jquery-migrate-3.3.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\js\\vendor\\jquery.waypoints.js",
+      "PackagePath": "staticwebassets\\lustur\\js\\vendor\\jquery.waypoints.js"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\js\\vendor\\modernizr-3.11.2.min.js",
+      "PackagePath": "staticwebassets\\lustur\\js\\vendor\\modernizr-3.11.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lustur\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\wwwroot\\lustur\\style.css",
+      "PackagePath": "staticwebassets\\lustur\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.hometask112124.props",
+      "PackagePath": "build\\hometask112124.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.hometask112124.props",
+      "PackagePath": "buildMultiTargeting\\hometask112124.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.hometask112124.props",
+      "PackagePath": "buildTransitive\\hometask112124.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.hometask112124.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
