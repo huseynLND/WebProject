@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\hometask112124.csproj": {}
+    "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\hometask112124.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\hometask112124.csproj": {
+    "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\hometask112124.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\hometask112124.csproj",
+        "projectUniqueName": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\hometask112124.csproj",
         "projectName": "hometask112124",
-        "projectPath": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\hometask112124.csproj",
+        "projectPath": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\hometask112124.csproj",
         "packagesPath": "C:\\Users\\Whosein\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Whosein\\Desktop\\hometask\\hometask112124\\obj\\",
+        "outputPath": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Whosein\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,20 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[8.0.7, )"
