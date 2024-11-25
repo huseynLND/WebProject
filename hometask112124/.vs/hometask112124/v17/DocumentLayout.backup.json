@@ -3,36 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\whosein\\desktop\\web\\hometask112124\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\whosein\\desktop\\web\\hometask112124\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\whosein\\desktop\\web\\hometask112124\\dataaccess\\uniqlodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:dataaccess\\uniqlodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\whosein\\desktop\\web\\hometask112124\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\whosein\\desktop\\web\\hometask112124\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\whosein\\desktop\\web\\hometask112124\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\whosein\\desktop\\web\\hometask112124\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\whosein\\desktop\\web\\hometask112124\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\whosein\\desktop\\web\\hometask112124\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\whosein\\desktop\\web\\hometask112124\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\whosein\\desktop\\web\\hometask112124\\areas\\admin\\views\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:areas\\admin\\views\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\whosein\\desktop\\web\\hometask112124\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\whosein\\desktop\\web\\hometask112124\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\whosein\\desktop\\web\\hometask112124\\dataaccess\\uniqlodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:dataaccess\\uniqlodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\whosein\\desktop\\web\\hometask112124\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\whosein\\desktop\\web\\hometask112124\\areas\\admin\\views\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:areas\\admin\\views\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\whosein\\desktop\\web\\hometask112124\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\whosein\\desktop\\web\\hometask112124\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\whosein\\desktop\\web\\hometask112124\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,37 +66,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Areas\\Admin\\Views\\Slider\\Create.cshtml*",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Slider\\Create.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T01:20:38.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T01:07:04.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T01:06:36.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "UniqloDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\DataAccess\\UniqloDbContext.cs",
               "RelativeDocumentMoniker": "DataAccess\\UniqloDbContext.cs",
               "ToolTip": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\DataAccess\\UniqloDbContext.cs",
               "RelativeToolTip": "DataAccess\\UniqloDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T00:38:06.908Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Slider.cs",
               "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Models\\Slider.cs",
               "RelativeDocumentMoniker": "Models\\Slider.cs",
               "ToolTip": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Models\\Slider.cs",
               "RelativeToolTip": "Models\\Slider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T21:45:00.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:49:47.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T14:09:50.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
@@ -85,33 +174,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Areas\\Admin\\Views\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Areas\\Admin\\Views\\_AdminLayout.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAswGQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T19:59:58.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Areas\\Admin\\Views\\Slider\\Index.cshtml*",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Slider\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T19:38:05.527Z",
+              "WhenOpened": "2024-11-24T15:53:03.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
@@ -124,7 +200,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T01:43:09.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Areas\\Admin\\Views\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Areas\\Admin\\Views\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAHUBAAAAAAAAAAAAAGQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T19:59:58.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T19:38:05.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -132,21 +247,7 @@
               "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T18:28:17.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T01:43:09.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T18:28:17.142Z"
             }
           ]
         }

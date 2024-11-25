@@ -1,3 +1,6 @@
+using hometask112124.DataAccess;
+using Microsoft.EntityFrameworkCore;
+
 namespace hometask112124
 {
     public class Program
@@ -8,6 +11,10 @@ namespace hometask112124
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddDbContext<UniqloDbContext>(opt =>
+            {
+                opt.UseSqlServer(builder.Configuration["ConnectionStrings : MSSql"]);
+            });
 
             var app = builder.Build();
 

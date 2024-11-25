@@ -2,7 +2,7 @@
 
 namespace hometask112124.Models
 {
-    public class Slider
+    public class Slider : BaseEntity
     {
         [MaxLength(32)]
         public string Title { get; set; } = null!;
