@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\hometask112124.csproj": {}
+    "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\hometask112124.csproj": {}
   },
   "projects": {
-    "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\hometask112124.csproj": {
+    "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\hometask112124.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\hometask112124.csproj",
+        "projectUniqueName": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\hometask112124.csproj",
         "projectName": "hometask112124",
-        "projectPath": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\hometask112124.csproj",
-        "packagesPath": "C:\\Users\\I Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\obj\\",
+        "projectPath": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\hometask112124.csproj",
+        "packagesPath": "C:\\Users\\Whosein\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\I Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Whosein\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

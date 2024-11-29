@@ -1,70 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\",
+  "WorkspaceRootPath": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\i novbe\\desktop\\webproject\\webproject\\hometask112124\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\i novbe\\desktop\\webproject\\webproject\\hometask112124\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\i novbe\\desktop\\webproject\\webproject\\hometask112124\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\i novbe\\desktop\\webproject\\webproject\\hometask112124\\dataaccess\\uniqlodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:dataaccess\\uniqlodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\i novbe\\desktop\\webproject\\webproject\\hometask112124\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\i novbe\\desktop\\webproject\\webproject\\hometask112124\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\i novbe\\desktop\\webproject\\webproject\\hometask112124\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\i novbe\\desktop\\webproject\\webproject\\hometask112124\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\i novbe\\desktop\\webproject\\webproject\\hometask112124\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\whosein\\desktop\\web\\hometask112124\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\i novbe\\desktop\\webproject\\webproject\\hometask112124\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\i novbe\\desktop\\webproject\\webproject\\hometask112124\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\i novbe\\desktop\\webproject\\webproject\\hometask112124\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\i novbe\\desktop\\webproject\\webproject\\hometask112124\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\i novbe\\desktop\\webproject\\webproject\\hometask112124\\areas\\admin\\views\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:areas\\admin\\views\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\i novbe\\desktop\\webproject\\webproject\\hometask112124\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\i novbe\\desktop\\webproject\\webproject\\hometask112124\\migrations\\20241125060606_ufjadjfsifvzdvyuh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:migrations\\20241125060606_ufjadjfsifvzdvyuh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\whosein\\desktop\\web\\hometask112124\\hometask112124.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:hometask112124.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,197 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "20241125060606_ufjadjfsifvzdvyuh.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\Migrations\\20241125060606_ufjadjfsifvzdvyuh.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241125060606_ufjadjfsifvzdvyuh.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\Migrations\\20241125060606_ufjadjfsifvzdvyuh.cs",
-              "RelativeToolTip": "Migrations\\20241125060606_ufjadjfsifvzdvyuh.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T06:06:07.03Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-25T05:38:31.821Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T01:20:38.136Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T01:06:36.546Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UniqloDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\DataAccess\\UniqloDbContext.cs",
-              "RelativeDocumentMoniker": "DataAccess\\UniqloDbContext.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\DataAccess\\UniqloDbContext.cs",
-              "RelativeToolTip": "DataAccess\\UniqloDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T00:38:06.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Slider.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\Models\\Slider.cs",
-              "RelativeDocumentMoniker": "Models\\Slider.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\Models\\Slider.cs",
-              "RelativeToolTip": "Models\\Slider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T21:45:00.8Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\SliderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T15:49:47.042Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-24T14:09:50.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "Models\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T21:27:27.629Z"
+              "Title": "hometask112124.csproj",
+              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\hometask112124.csproj",
+              "RelativeDocumentMoniker": "hometask112124.csproj",
+              "ToolTip": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\hometask112124.csproj",
+              "RelativeToolTip": "hometask112124.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T00:36:32.767Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA8AAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T01:43:09.613Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T01:20:38.136Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T01:07:04.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T15:53:03.981Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T18:33:31.633Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\Areas\\Admin\\Views\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\Areas\\Admin\\Views\\_AdminLayout.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAHIBAAAAAAAAAIBJwGQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T19:59:58.089Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T19:38:05.527Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\WebProject\\WebProject\\hometask112124\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T18:28:17.142Z"
             }
           ]
         }
