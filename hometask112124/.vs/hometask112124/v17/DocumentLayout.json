@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\whosein\\desktop\\web\\hometask112124\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\whosein\\desktop\\web\\hometask112124\\viewmodels\\sliders\\slidercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:viewmodels\\sliders\\slidercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|c:\\users\\whosein\\desktop\\web\\hometask112124\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3E32AC7E-C4B5-4A57-9CB9-22A9FC0BFF5E}|hometask112124.csproj|solutionrelative:areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -27,6 +35,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SliderCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\ViewModels\\Sliders\\SliderCreateVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Sliders\\SliderCreateVM.cs",
+              "ToolTip": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\ViewModels\\Sliders\\SliderCreateVM.cs",
+              "RelativeToolTip": "ViewModels\\Sliders\\SliderCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:23:12.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T07:06:27.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "hometask112124.csproj",
               "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\hometask112124.csproj",
               "RelativeDocumentMoniker": "hometask112124.csproj",
@@ -38,16 +71,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slider\\Create.cshtml",
               "ToolTip": "C:\\Users\\Whosein\\Desktop\\web\\hometask112124\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T01:20:38.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T01:20:38.136Z"
             }
           ]
         }
