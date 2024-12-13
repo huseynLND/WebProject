@@ -13,7 +13,7 @@ namespace hometask112124
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<UniqloDbContext>(opt =>
             {
-                opt.UseSqlServer(builder.Configuration["ConnectionStrings:MSSql"]);
+                opt.UseSqlServer(builder.Configuration.GetConnectionString("MSsql"));
             });
 
             var app = builder.Build();

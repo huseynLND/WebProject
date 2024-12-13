@@ -25,6 +25,7 @@
 
   <ItemGroup>
     <Folder Include="Areas\Admin\Views\Shared\" />
+    <Folder Include="wwwroot\imgs\sliders\" />
     <Folder Include="wwwroot\lustur\images\about\" />
     <Folder Include="wwwroot\lustur\images\payment\" />
     <Folder Include="wwwroot\admin\" />

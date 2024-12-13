@@ -4,6 +4,8 @@ namespace hometask112124.Models
 {
     public class Slider : BaseEntity
     {
+        internal string Subtitle;
+
         [MaxLength(32)]
         public string Title { get; set; } = null!;
         [MaxLength(64)]
